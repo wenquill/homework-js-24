@@ -11,7 +11,7 @@ function ManagedContestsCard ({ card }) {
           <img src={icon} alt='card' />
         </div>
         <h3>{title}</h3>
-        <p>{description}</p>
+        <p className={styles.description}>{description}</p>
       </div>
     </div>
   );

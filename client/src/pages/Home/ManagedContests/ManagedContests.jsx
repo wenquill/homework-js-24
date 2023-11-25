@@ -7,7 +7,7 @@ function ManagedContests () {
   return (
     <div className={styles.container}>
       <h2>Managed Contests</h2>
-      <p className={styles.description}>
+      <p className={styles.desc}>
         Better than a naming agency: Our hybrid-solution partners you with a
         trained Squadhelp branding consultant who will guide your crowdsourcing
         process step-by-step to get the best results possible.
